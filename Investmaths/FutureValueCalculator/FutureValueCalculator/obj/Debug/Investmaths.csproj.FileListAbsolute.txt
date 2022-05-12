@@ -1,0 +1,9 @@
+C:\Users\27813\Music\C-FinancialCalulator-master\FutureValueCalculator\FutureValueCalculator\bin\Debug\FutureValueCalculator.exe.config
+C:\Users\27813\Music\C-FinancialCalulator-master\FutureValueCalculator\FutureValueCalculator\bin\Debug\FutureValueCalculator.exe
+C:\Users\27813\Music\C-FinancialCalulator-master\FutureValueCalculator\FutureValueCalculator\bin\Debug\FutureValueCalculator.pdb
+C:\Users\27813\Music\C-FinancialCalulator-master\FutureValueCalculator\FutureValueCalculator\obj\Debug\FutureValueCalculator.Future Value.resources
+C:\Users\27813\Music\C-FinancialCalulator-master\FutureValueCalculator\FutureValueCalculator\obj\Debug\FutureValueCalculator.Properties.Resources.resources
+C:\Users\27813\Music\C-FinancialCalulator-master\FutureValueCalculator\FutureValueCalculator\obj\Debug\Investmaths.csproj.GenerateResource.cache
+C:\Users\27813\Music\C-FinancialCalulator-master\FutureValueCalculator\FutureValueCalculator\obj\Debug\Investmaths.csproj.CoreCompileInputs.cache
+C:\Users\27813\Music\C-FinancialCalulator-master\FutureValueCalculator\FutureValueCalculator\obj\Debug\FutureValueCalculator.exe
+C:\Users\27813\Music\C-FinancialCalulator-master\FutureValueCalculator\FutureValueCalculator\obj\Debug\FutureValueCalculator.pdb
